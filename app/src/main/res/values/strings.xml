@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Music shop</string>
+    <string name="button_text">Add to card</string>
+    <string name="select_item_text">Select item</string>
+    <string name="order_price_text">Order Price</string>
+</resources>
